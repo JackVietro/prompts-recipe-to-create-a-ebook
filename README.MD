@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Capa PNG.png"
     width="400"  
 />
 </p>
