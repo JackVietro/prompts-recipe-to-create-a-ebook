@@ -40,7 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | CCrie um título de um ebook sobre o tema Burnout no trabalho, o ebook é do nicho de saúde mental e do subnicho recursos humanos, o título deve ser épico e curto e ser mais popular. Me liste 5 variações de títulos                                                        |
+|  título  | Crie um título de um ebook sobre o tema Burnout no trabalho, o ebook é do nicho de saúde mental e do subnicho recursos humanos, o título deve ser épico e curto e ser mais popular. Me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook com foco em Síndrome de Burnout no Ambiente de Trabalho, informando sobre a importância do diagnóstico e como buscar tratamento e melhoria na condição de vida e de trabalho com linguagem simples e detalhada |
 
 
@@ -53,18 +53,15 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook criado no diretório principal
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
 
 <p>
     <img 
